@@ -1,0 +1,11 @@
+C:\Users\Маестро\source\repos\LR1OOP2\Domain\bin\Debug\net8.0\Domain.deps.json
+C:\Users\Маестро\source\repos\LR1OOP2\Domain\bin\Debug\net8.0\Domain.dll
+C:\Users\Маестро\source\repos\LR1OOP2\Domain\bin\Debug\net8.0\Domain.pdb
+C:\Users\Маестро\source\repos\LR1OOP2\Domain\obj\Debug\net8.0\Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Маестро\source\repos\LR1OOP2\Domain\obj\Debug\net8.0\Domain.AssemblyInfoInputs.cache
+C:\Users\Маестро\source\repos\LR1OOP2\Domain\obj\Debug\net8.0\Domain.AssemblyInfo.cs
+C:\Users\Маестро\source\repos\LR1OOP2\Domain\obj\Debug\net8.0\Domain.csproj.CoreCompileInputs.cache
+C:\Users\Маестро\source\repos\LR1OOP2\Domain\obj\Debug\net8.0\Domain.dll
+C:\Users\Маестро\source\repos\LR1OOP2\Domain\obj\Debug\net8.0\refint\Domain.dll
+C:\Users\Маестро\source\repos\LR1OOP2\Domain\obj\Debug\net8.0\Domain.pdb
+C:\Users\Маестро\source\repos\LR1OOP2\Domain\obj\Debug\net8.0\ref\Domain.dll

@@ -1,0 +1,15 @@
+C:\Users\Маестро\source\repos\LR1OOP2\FileOperations\bin\Debug\net8.0\FileOperations.deps.json
+C:\Users\Маестро\source\repos\LR1OOP2\FileOperations\bin\Debug\net8.0\FileOperations.dll
+C:\Users\Маестро\source\repos\LR1OOP2\FileOperations\bin\Debug\net8.0\FileOperations.pdb
+C:\Users\Маестро\source\repos\LR1OOP2\FileOperations\bin\Debug\net8.0\Domain.dll
+C:\Users\Маестро\source\repos\LR1OOP2\FileOperations\bin\Debug\net8.0\Domain.pdb
+C:\Users\Маестро\source\repos\LR1OOP2\FileOperations\obj\Debug\net8.0\FileOperations.csproj.AssemblyReference.cache
+C:\Users\Маестро\source\repos\LR1OOP2\FileOperations\obj\Debug\net8.0\FileOperations.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Маестро\source\repos\LR1OOP2\FileOperations\obj\Debug\net8.0\FileOperations.AssemblyInfoInputs.cache
+C:\Users\Маестро\source\repos\LR1OOP2\FileOperations\obj\Debug\net8.0\FileOperations.AssemblyInfo.cs
+C:\Users\Маестро\source\repos\LR1OOP2\FileOperations\obj\Debug\net8.0\FileOperations.csproj.CoreCompileInputs.cache
+C:\Users\Маестро\source\repos\LR1OOP2\FileOperations\obj\Debug\net8.0\FileOper.DD5C2DC9.Up2Date
+C:\Users\Маестро\source\repos\LR1OOP2\FileOperations\obj\Debug\net8.0\FileOperations.dll
+C:\Users\Маестро\source\repos\LR1OOP2\FileOperations\obj\Debug\net8.0\refint\FileOperations.dll
+C:\Users\Маестро\source\repos\LR1OOP2\FileOperations\obj\Debug\net8.0\FileOperations.pdb
+C:\Users\Маестро\source\repos\LR1OOP2\FileOperations\obj\Debug\net8.0\ref\FileOperations.dll

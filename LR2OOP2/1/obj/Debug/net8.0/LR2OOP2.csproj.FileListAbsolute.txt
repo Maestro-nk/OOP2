@@ -1,0 +1,14 @@
+C:\Users\Маестро\source\repos\1\1\bin\Debug\net8.0\LR2OOP2.exe
+C:\Users\Маестро\source\repos\1\1\bin\Debug\net8.0\LR2OOP2.deps.json
+C:\Users\Маестро\source\repos\1\1\bin\Debug\net8.0\LR2OOP2.runtimeconfig.json
+C:\Users\Маестро\source\repos\1\1\bin\Debug\net8.0\LR2OOP2.dll
+C:\Users\Маестро\source\repos\1\1\bin\Debug\net8.0\LR2OOP2.pdb
+C:\Users\Маестро\source\repos\1\1\obj\Debug\net8.0\LR2OOP2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Маестро\source\repos\1\1\obj\Debug\net8.0\LR2OOP2.AssemblyInfoInputs.cache
+C:\Users\Маестро\source\repos\1\1\obj\Debug\net8.0\LR2OOP2.AssemblyInfo.cs
+C:\Users\Маестро\source\repos\1\1\obj\Debug\net8.0\LR2OOP2.csproj.CoreCompileInputs.cache
+C:\Users\Маестро\source\repos\1\1\obj\Debug\net8.0\LR2OOP2.dll
+C:\Users\Маестро\source\repos\1\1\obj\Debug\net8.0\refint\LR2OOP2.dll
+C:\Users\Маестро\source\repos\1\1\obj\Debug\net8.0\LR2OOP2.pdb
+C:\Users\Маестро\source\repos\1\1\obj\Debug\net8.0\LR2OOP2.genruntimeconfig.cache
+C:\Users\Маестро\source\repos\1\1\obj\Debug\net8.0\ref\LR2OOP2.dll

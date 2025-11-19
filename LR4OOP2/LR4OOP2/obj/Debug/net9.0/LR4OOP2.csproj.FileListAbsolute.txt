@@ -1,0 +1,14 @@
+C:\Users\Маестро\source\repos\LR4OOP2\LR4OOP2\bin\Debug\net9.0\LR4OOP2.exe
+C:\Users\Маестро\source\repos\LR4OOP2\LR4OOP2\bin\Debug\net9.0\LR4OOP2.deps.json
+C:\Users\Маестро\source\repos\LR4OOP2\LR4OOP2\bin\Debug\net9.0\LR4OOP2.runtimeconfig.json
+C:\Users\Маестро\source\repos\LR4OOP2\LR4OOP2\bin\Debug\net9.0\LR4OOP2.dll
+C:\Users\Маестро\source\repos\LR4OOP2\LR4OOP2\bin\Debug\net9.0\LR4OOP2.pdb
+C:\Users\Маестро\source\repos\LR4OOP2\LR4OOP2\obj\Debug\net9.0\LR4OOP2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Маестро\source\repos\LR4OOP2\LR4OOP2\obj\Debug\net9.0\LR4OOP2.AssemblyInfoInputs.cache
+C:\Users\Маестро\source\repos\LR4OOP2\LR4OOP2\obj\Debug\net9.0\LR4OOP2.AssemblyInfo.cs
+C:\Users\Маестро\source\repos\LR4OOP2\LR4OOP2\obj\Debug\net9.0\LR4OOP2.csproj.CoreCompileInputs.cache
+C:\Users\Маестро\source\repos\LR4OOP2\LR4OOP2\obj\Debug\net9.0\LR4OOP2.dll
+C:\Users\Маестро\source\repos\LR4OOP2\LR4OOP2\obj\Debug\net9.0\refint\LR4OOP2.dll
+C:\Users\Маестро\source\repos\LR4OOP2\LR4OOP2\obj\Debug\net9.0\LR4OOP2.pdb
+C:\Users\Маестро\source\repos\LR4OOP2\LR4OOP2\obj\Debug\net9.0\LR4OOP2.genruntimeconfig.cache
+C:\Users\Маестро\source\repos\LR4OOP2\LR4OOP2\obj\Debug\net9.0\ref\LR4OOP2.dll

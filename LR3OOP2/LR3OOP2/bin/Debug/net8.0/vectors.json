@@ -1,0 +1,27 @@
+[
+  {
+    "LineColor": "Red",
+    "Angle": 45,
+    "Length": 10
+  },
+  {
+    "LineColor": "Blue",
+    "Angle": 90,
+    "Length": 5
+  },
+  {
+    "LineColor": "Green",
+    "Angle": 0,
+    "Length": 15
+  },
+  {
+    "LineColor": "Black",
+    "Angle": 180,
+    "Length": 8
+  },
+  {
+    "LineColor": "Yellow",
+    "Angle": 270,
+    "Length": 12
+  }
+]

@@ -1,0 +1,14 @@
+C:\Users\Маестро\source\repos\LR3OOP2\LR3OOP2\bin\Debug\net8.0\LR3OOP2.exe
+C:\Users\Маестро\source\repos\LR3OOP2\LR3OOP2\bin\Debug\net8.0\LR3OOP2.deps.json
+C:\Users\Маестро\source\repos\LR3OOP2\LR3OOP2\bin\Debug\net8.0\LR3OOP2.runtimeconfig.json
+C:\Users\Маестро\source\repos\LR3OOP2\LR3OOP2\bin\Debug\net8.0\LR3OOP2.dll
+C:\Users\Маестро\source\repos\LR3OOP2\LR3OOP2\bin\Debug\net8.0\LR3OOP2.pdb
+C:\Users\Маестро\source\repos\LR3OOP2\LR3OOP2\obj\Debug\net8.0\LR3OOP2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Маестро\source\repos\LR3OOP2\LR3OOP2\obj\Debug\net8.0\LR3OOP2.AssemblyInfoInputs.cache
+C:\Users\Маестро\source\repos\LR3OOP2\LR3OOP2\obj\Debug\net8.0\LR3OOP2.AssemblyInfo.cs
+C:\Users\Маестро\source\repos\LR3OOP2\LR3OOP2\obj\Debug\net8.0\LR3OOP2.csproj.CoreCompileInputs.cache
+C:\Users\Маестро\source\repos\LR3OOP2\LR3OOP2\obj\Debug\net8.0\LR3OOP2.dll
+C:\Users\Маестро\source\repos\LR3OOP2\LR3OOP2\obj\Debug\net8.0\refint\LR3OOP2.dll
+C:\Users\Маестро\source\repos\LR3OOP2\LR3OOP2\obj\Debug\net8.0\LR3OOP2.pdb
+C:\Users\Маестро\source\repos\LR3OOP2\LR3OOP2\obj\Debug\net8.0\LR3OOP2.genruntimeconfig.cache
+C:\Users\Маестро\source\repos\LR3OOP2\LR3OOP2\obj\Debug\net8.0\ref\LR3OOP2.dll

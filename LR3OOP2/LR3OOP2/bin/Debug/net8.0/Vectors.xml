@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfVector xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Vector>
+    <LineColor>Red</LineColor>
+    <Angle>45</Angle>
+    <Length>10</Length>
+  </Vector>
+  <Vector>
+    <LineColor>Blue</LineColor>
+    <Angle>90</Angle>
+    <Length>5</Length>
+  </Vector>
+  <Vector>
+    <LineColor>Green</LineColor>
+    <Angle>0</Angle>
+    <Length>15</Length>
+  </Vector>
+  <Vector>
+    <LineColor>Black</LineColor>
+    <Angle>180</Angle>
+    <Length>8</Length>
+  </Vector>
+  <Vector>
+    <LineColor>Yellow</LineColor>
+    <Angle>270</Angle>
+    <Length>12</Length>
+  </Vector>
+</ArrayOfVector>
